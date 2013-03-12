@@ -2,7 +2,7 @@
   "name": "ipint",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "keywords": ["ip", "aton", "ntoa"],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert IP addresses to integers and vice versa",
   "main": "./lib/ipint",
   "scripts": {
