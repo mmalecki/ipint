@@ -7,5 +7,10 @@
   "main": "./lib/ipint",
   "scripts": {
     "test": "node test/test-ipint.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/ipint.git"
+  },
+  "license": "MIT"
 }
