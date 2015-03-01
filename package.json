@@ -6,7 +6,7 @@
     "aton",
     "ntoa"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert IP addresses to integers and vice versa",
   "main": "./lib/ipint",
   "scripts": {
